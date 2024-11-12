@@ -33,3 +33,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# firebase
+google-services.json
+fcm-noti-testapp-firebase-adminsdk-fzyxf-0134786b60.json
